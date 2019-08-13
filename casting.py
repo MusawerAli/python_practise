@@ -1,0 +1,13 @@
+x = int(1)
+num1 = float(2)
+num2 = float(2.0)
+num3 = float("321")
+str1 = str("data")
+str2 = str("string")
+
+print(x)
+print(num1)
+print(num2)
+print(num3)
+print(str1)
+print(str2)
