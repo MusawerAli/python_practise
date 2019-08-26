@@ -2,7 +2,7 @@ a = 50
 b =20
 c = 54
 d=50
-if b>a:
+if b > a:
     print("b is greater than b")
 elif c>a:
     print("c is grater than a")
@@ -20,3 +20,12 @@ if a>b and d>b:
 
     if a<b or c>a:
         print("one is true")
+
+    if a > b:
+        print("A grearter than b")
+
+
+if b > a:
+    print("b is greater than b")
+    elif a>b:
+        
